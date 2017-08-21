@@ -1,0 +1,23 @@
+Question:  What is the best way to clean up an oil spill on concrete?
+CorrectAnswer: Kitty litter
+IncorrectAnswer1: Vinegar
+IncorrectAnswer2: Hot water
+IncorrectAnswer3: Sand
+
+Question: Bob has 47 pencils. He meets a friend who gives him 9 new pencils. How many pencils does Bob have now?
+CorrectAnswer: 56
+IncorrectAnswer1: 38
+IncorrectAnswer2: 55
+IncorrectAnswer3: 37
+
+Question: Marie Curie was the first woman to win a Nobel prize; that was for her work on?
+CorrectAnswer: Radiation
+IncorrectAnswer1: Magnetism
+IncorrectAnswer2: X-ray spectroscopy
+IncorrectAnswer3: Electricity
+
+Question: Which of the following metals is the best conductor of heat?
+CorrectAnswer: Copper
+IncorrectAnswer1: Steel
+IncorrectAnswer2: Brass
+IncorrectAnswer3: Tin
